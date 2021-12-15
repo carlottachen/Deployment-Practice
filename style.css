@@ -5,6 +5,12 @@ body{
 img{
     width: 90%;
 }
+button{
+    border-radius: 80%;
+    background-color: #8fc0a9;
+    color: #45a176;
+    padding: 5px;
+}
 #center{
     display: block;
     margin-left: auto;
