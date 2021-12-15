@@ -9,6 +9,7 @@ body{
 .signup-form{
     float: right;
     border-style: solid;
+    padding: 15px;
 }
 img{
     width: 90%;
