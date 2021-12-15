@@ -1,6 +1,14 @@
 body{
     min-height: 100%;
     width: 100%;
+    font-family: Helvetica, Arial, Sans-Serif;
+}
+::placeholder{
+    color: rgb(82, 116, 111);
+}
+.signup-form{
+    float: right;
+    border-style: solid;
 }
 img{
     width: 90%;
