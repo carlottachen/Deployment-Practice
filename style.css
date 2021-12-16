@@ -9,6 +9,7 @@ body{
 .signup-form{
     float: right;
     border-style: solid;
+    border-color: #45a176;
     padding: 25px;
     margin: 30px;
 }
